@@ -1,0 +1,21 @@
+{
+  "type":"minecraft:overworld",
+  "generator":{
+    "type":"minecraft:flat",
+    "setting":{
+      "layers":[
+        {"height":1,"block":"minecraft:air"}
+      ],
+      "biome":"minecraft:void",
+      "structures":{
+        "structures":{
+          "msss_main_hub":{
+            "spacing":16,
+            "separation":10,
+            "salt":40990456
+          }
+        }
+      }
+    }
+  }
+}
